@@ -7,4 +7,4 @@ Privacy policies for Find Words Kids and Find Words, published with GitHub Pages
 
 The source text lives in the game repository under `docs/compliance/`. Change both together, and only with the owner's approval.
 
-Contact: srhgms@proton.me
+Contact: cyberaidev@protonmail.com
